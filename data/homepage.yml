@@ -61,6 +61,10 @@ experience:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
     URL: "https://www.linkedin.com/in/meltran/"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "Download My CV"
+    URL: "cv/Melinda_CV.pdf"
 
 items:
     - title: "Data Integration Analyst"
