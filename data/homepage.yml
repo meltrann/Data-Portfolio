@@ -1,0 +1,122 @@
+head:
+  title: "Melinda Tran's Data Portfolio"
+
+# showcase
+showcase:
+  enable: true
+  title: "Hello, I’m Melinda Tran."
+  subtitle: "Data Analyst"
+  description: "Background is in health informatics and analytics. I'm deeply passionate about digital health, machine learning, 
+  and emerging technologies to revolutionize the health tech landscape. My enthusiasm extends beyond healthcare, 
+  and I'm open to exploring opportunities where transformative technologies can drive innovation and growth."
+  image:
+    x: "img/showcase/connection.jpg"
+    _2x: "img/showcase/connection.jpg"
+  imageMobile:
+    x: "img/showcase/connection.jpg"
+    _2x: "img/showcase/connection.jpg"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact Melinda"
+    URL: "mailto:melinda.ngtran@gmail.com"
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/in/meltran/"
+
+    - icon: "github"
+      URL: "https://github.com/meltrann"
+
+# about
+about:
+  enable: true
+  title: "Who am I?"
+  content: 
+    <p class="lead">
+    My expertise lies in data management and analytics, but I’ve also dabbled in data engineering and cloud computing technologies to 
+    broaden my knowledge of the entire data lifecycle. I'm results-driven, super curious, and committed to continuous learning.
+    </p>
+    <p class="lead">
+    I love blending different data streams to help uncover new patterns and insights. 
+    When I am not wrangling data, I'm deeply immersed in my personal health and wellness journey, 
+    and always eager to travel and discover new cultures.
+    </p>
+  button:
+    icon: "icon-smile-fill"
+    btnText: "About Me"
+    URL: "https://www.linkedin.com/in/meltran/"
+  image:
+    x: "img/who-am-i/profile_pic.jpg"
+    _2x: "img/who-am-i/profile_pic.jpg"
+    
+# experience
+experience:
+  enable: true
+  title: "Experience"
+  description: "Over 5+ years of experience with a focus on system analysis, data transformation, 
+  and health information management. I thrive on delivering analytical and programming solutions that 
+  drive meaningful outcomes in healthcare and public health sectors."
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com/in/meltran/"
+
+items:
+    - title: "Data Integration Analyst"
+      company: "Washington Department of Health"
+      duration: "Sep 2022 - Present"
+
+    - title: "Business Analyst (Informatics Lead)"
+      company: "Washington Department of Health"
+      duration: "Dec 2020 - Sep 2022"
+
+    - title: "Sr. Clinical Operations Coordinator"
+      company: "Swedish Medical Group"
+      duration: "Dec 2018 - Dec 2020"
+      
+    - title: "Health Information Management Intern"
+      company: "Orlando Health"
+      duration: "Jan 2020 - Mar 2020"
+
+# education
+education:
+  enable: true
+  title: "Education"
+  items:
+    - university: "University of Central Florida"
+      year: "2018-2022"
+      degree: "Master of Science in Healthcare Informatics"
+
+    - university: "Florida State University"
+      year: "2011-2015"
+      degree: "Bachelor of Science in Exercise Physiology"
+      
+
+
+# Client & Work
+client_and_work:
+  title: "Portfolio"
+  enable: true
+      
+# contact
+contact:
+  enable: true
+  title: "Contact"
+  form:
+    action: "#"
+    full_name: "Full Name"
+    email: "Email Address"
+    message: "Type Your Message Here"
+  phone:
+    title: "Phone Number"
+    number: "+1 (954) 579 5480"
+  email:
+    title: "Email"
+    email: '<a href="mailto:melinda.ngtran@gmail.com">melinda.ngtran@gmail.com</a>'
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+
+ 
+
