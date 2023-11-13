@@ -49,14 +49,12 @@ about:
   image:
     x: "img/who-am-i/profile_pic.jpg"
     _2x: "img/who-am-i/profile_pic.jpg"
-    
+
 # experience
 experience:
   enable: true
   title: "Experience"
-  description: "Over 5+ years of experience with a focus on system analysis, data transformation, 
-  and health information management. I thrive on delivering analytical and programming solutions that 
-  drive meaningful outcomes in healthcare and public health sectors."
+  description: "Over 5+ years of experience with a focus on system analysis, data transformation, and health information management. I thrive on delivering analytical and programming solutions that drive meaningful outcomes in healthcare and public health sectors."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
@@ -65,8 +63,9 @@ experience:
     icon: "icon-profile-fill"
     btnText: "Download My CV"
     URL: "cv/Melinda_CV.pdf"
-
-items:
+ 
+  items:
+ 
     - title: "Data Integration Analyst"
       company: "Washington Department of Health"
       duration: "Sep 2022 - Present"
@@ -78,11 +77,12 @@ items:
     - title: "Sr. Clinical Operations Coordinator"
       company: "Swedish Medical Group"
       duration: "Dec 2018 - Dec 2020"
-      
+
     - title: "Health Information Management Intern"
       company: "Orlando Health"
       duration: "Jan 2020 - Mar 2020"
-
+      
+      
 # education
 education:
   enable: true
