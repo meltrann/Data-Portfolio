@@ -111,8 +111,8 @@ client_and_work:
         btnText: "Show Analysis"
         URL: "https://meltrann.github.io/Customer_segmentation_project/"
       image:
-        x: "img/works/retail_Rplot.png"
-        _2x: "img/works/retail_Rplot.png"
+        x: "img/works/retail_Rplot.jpg"
+        _2x: "img/works/retail_Rplot.jpg"
       is_even: true
 
       
