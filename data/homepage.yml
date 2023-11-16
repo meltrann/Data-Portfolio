@@ -104,7 +104,7 @@ client_and_work:
   enable: true
   
   works:
-    - title: "Customer Segmentation of Retail Customers Data"
+    - title: "Customer Segmentation of Retail Customers"
       description: "This analysis leverages machine learning on retail customer data to unveil insights into distinct customer groups and provide tailored marketing strategies."
       button:
         icon: "icon-arrow-right"
@@ -113,6 +113,7 @@ client_and_work:
       image:
         x: "img/works/retail_Rplot.jpg"
         _2x: "img/works/retail_Rplot.jpg"
+        style: "max-width: 100%; height: auto;"
       is_even: true
 
       
