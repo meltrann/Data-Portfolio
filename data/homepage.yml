@@ -113,7 +113,6 @@ client_and_work:
       image:
         x: "img/works/retail_Rplot.jpg"
         _2x: "img/works/retail_Rplot.jpg"
-        style: "max-width: 100%; height: auto;"
       is_even: true
 
       
