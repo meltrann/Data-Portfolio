@@ -102,6 +102,19 @@ education:
 client_and_work:
   title: "Portfolio"
   enable: true
+  
+  works:
+    - title: "Customer Segmentation of Retail Customers Data"
+      description: "This analysis leverages machine learning on retail customer data to unveil insights into distinct customer groups and provide tailored marketing strategies."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Show Analysis"
+        URL: "https://meltrann.github.io/Customer_segmentation_project/"
+      image:
+        x: "img/works/retail_Rplot.png"
+        _2x: "img/works/retail_Rplot.png"
+      is_even: true
+
       
 # contact
 contact:
