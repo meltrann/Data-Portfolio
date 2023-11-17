@@ -118,7 +118,7 @@ client_and_work:
 # contact
 contact:
   enable: true
-  title: "Contact Melinda"
+  title: "Contact"
     
   image:
     x: "img/who-am-i/wordcloud.jpg"
