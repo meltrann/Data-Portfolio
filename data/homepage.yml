@@ -120,17 +120,19 @@ client_and_work:
 contact:
   enable: true
   title: "Contact"
-  form:
-    action: "#"
-    full_name: "Full Name"
-    email: "Email Address"
-    message: "Type Your Message Here"
+  
+  image:
+    x: "img/who-am-i/wordcloud.jpg"
+    _2x: "img/who-am-i/wordcloud.jpg"
+    
   phone:
     title: "Phone Number"
     number: "+1 (954) 579 5480"
+  
   email:
     title: "Email"
     email: '<a href="mailto:melinda.ngtran@gmail.com">melinda.ngtran@gmail.com</a>'
+ 
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
